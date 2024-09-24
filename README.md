@@ -1,2 +1,2 @@
 # CS360-test
-Practicing git workflow
+Practicing git operations
